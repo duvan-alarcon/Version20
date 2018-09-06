@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Version20</string>
+    <string name="formulario">Formulario</string>
+    <string name="nombre">Nombre</string>
+    <string name="password">Contraseña</string>
+    <string name="repPassword">Repita Contraseña</string>
+    <string name="correo">Correo</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="fechaNacimiento">Fecha de Nacimiento</string>
+    <string name="bicicleta">Bicicleta</string>
+    <string name="Leer">Leer</string>
+    <string name="peliculas">Peliculas</string>
+    <string name="bailar">Bailar</string>
+    <string name="guardar">Guardar</string>
+    <string name="resultado">Resultado</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="ver">Ver Contacto</string>
+    <string name="buscar">Buscar</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Resistencia</string>
+    <string name="codigocolores">Codigo de Colores</string>
+    <string name="negro">Negro</string>
+    <string name="marron">Marron</string>
+    <string name="naranja">Naranja</string>
+    <string name="rojo">Naranja</string>
+    <string name="amarillo">Amarillo</string>
+    <string name="verde">Verde</string>
+    <string name="azul">Azul</string>
+    <string name="purpura">Purpura</string>
+    <string name="plateado">Plateado</string>
+    <string name="dorado">Dorado</string>
+    <string name="blanco">Blanco</string>
+    <string name="gris">Gris</string>
+</resources>
